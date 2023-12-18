@@ -18,7 +18,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
 - [bahnhof.de](https://www.bahnhof.de/hannover-hbf/abfahrt): die etwas nutzer:innenfreundlichere Variante der IRIS-Tafeln, erreichbar über die Bahnhofsinformationen auf [bahnhof.de](https://bahnhof.de)
 - [mobile.bahn.de](https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?ld=43177&protocol=https:&rt=1&use_realtime_filter=1): eine weitere Bahnhofstafelanwendung, über die mir bisher jegliche Informationen fehlen
-- [reiseauskuinft.bahn.de](https://reiseauskunft.bahn.de/bin/bhftafel.exe): eine Bahnhofstafelanwendung mit dem alten Design des Kundenportals, ursprünglich über ebenjenes zu erreichen
+- [reiseauskunft.bahn.de](https://reiseauskunft.bahn.de/bin/bhftafel.exe): eine Bahnhofstafelanwendung mit dem alten Design des Kundenportals, ursprünglich über ebenjenes zu erreichen
 
 ## Sonstiges
 - [bahn.expert](https://bahn.expert): Webanwendung zur Übersicht über eine Vielzahl an Informationen wie Abfahrten, Zugläufen etc.
