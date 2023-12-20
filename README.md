@@ -13,6 +13,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
 - [DB Livemaps (hafas)](https://db-livemaps.hafas.de/bin/query.exe/dn?L=vs_baustellen): Karte über die aktuellen Baustellen und Störungen im Netz der DB
 - [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
+- [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 
 ## RIS (Reisendeninformationssystem)
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
