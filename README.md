@@ -11,7 +11,8 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 
 ## Netz
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
-- [DB Livemaps (hafas)](https://db-livemaps.hafas.de/bin/query.exe/dn?L=vs_baustellen): Karte über die aktuellen Baustellen und Störungen im Netz der DB
+- [DB Livemaps (strecken.info)](https://db-livemaps.hafas.de/bin/query.exe/dn?L=vs_baustellen): Karte über die aktuellen Baustellen und Störungen im Netz der DB
+- [DB InfraGO Livemaps (strecken-info-beta.de](https://strecken-info-beta.de): Beta für eine überarbeitete Version von strecken.info
 - [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 
@@ -24,3 +25,4 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 ## Sonstiges
 - [bahn.expert](https://bahn.expert): Webanwendung zur Übersicht über eine Vielzahl an Informationen wie Abfahrten, Zugläufen etc.
 - [travelynx.de](https://travelynx.de): Webanwendung zum Tracken und Auswerten von Reisen, inklusive Features wie Tracking von Freunden (soweit freigegeben), Übersichten über zurückgelegte Strecken, Entfernungen, Verspätungen, ...
+- [fernbahn.de](https://fernbahn.de): Archiv-Datenbank mit sämtlichen Fahrplandaten ab 1977
