@@ -26,3 +26,5 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [bahn.expert](https://bahn.expert): Webanwendung zur Übersicht über eine Vielzahl an Informationen wie Abfahrten, Zugläufen etc.
 - [travelynx.de](https://travelynx.de): Webanwendung zum Tracken und Auswerten von Reisen, inklusive Features wie Tracking von Freunden (soweit freigegeben), Übersichten über zurückgelegte Strecken, Entfernungen, Verspätungen, ...
 - [fernbahn.de](https://fernbahn.de): Archiv-Datenbank mit sämtlichen Fahrplandaten ab 1977
+- [bahn.guru](https://bahn.guru): Sparpreissuche für die "(Super-)Sparpreise" der DB
+- [direkt.bahn.guru](https://direkt.bahn.guru): Karte mit den per Fernbahn erreichbaren Städten Europas
