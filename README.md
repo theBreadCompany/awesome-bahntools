@@ -28,3 +28,4 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [fernbahn.de](https://fernbahn.de): Archiv-Datenbank mit sämtlichen Fahrplandaten ab 1977
 - [bahn.guru](https://bahn.guru): Sparpreissuche für die "(Super-)Sparpreise" der DB
 - [direkt.bahn.guru](https://direkt.bahn.guru): Karte mit den per Fernbahn erreichbaren Städten Europas
+- [bahnhofskatzen](https://bahnhofskatzen.de.cool): Karte für Bahnhofskatzen :)
