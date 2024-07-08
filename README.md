@@ -15,6 +15,8 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [DB InfraGO Livemaps (strecken-info-beta.de](https://strecken-info-beta.de): Beta für eine überarbeitete Version von strecken.info
 - [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
+- [DB Kursbuch](https://kursbuch.bahn.de/hafas/kbview.exe): Das Kursbuch der DB AG für die Strecke- und Fahrplannsuche
+- [db.geopp.de](http://db.geopp.de/gnrailnav_servlet/GNOpenLayersV3): Webtool zur Ortung von Streckenabschnitten/-kilometern anhand von VZG-Nummern (nicht Kursbuch/Liniennummern!)
 
 ## RIS (Reisendeninformationssystem)
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
