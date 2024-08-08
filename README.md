@@ -10,6 +10,7 @@ Von Zeit zu Zeit habe ich immer wieder interessante Tools gefunden, die einem al
 einen Überblick verschaffen, sondern auch Störungen und Situationen erklären können.
 
 ## Netz
+- [DB InfraGO Betriebsstellen](https://www.dbinfrago.com/web/schienennetz/betrieb/allgemeine-betriebsinformationen/betriebsstellen-12592996): Offizielle Liste über die Betriebsstellen der DB InfraGO
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
 - [DB Livemaps (strecken.info)](https://db-livemaps.hafas.de/bin/query.exe/dn?L=vs_baustellen): Karte über die aktuellen Baustellen und Störungen im Netz der DB
 - [DB InfraGO Livemaps (strecken-info-beta.de](https://strecken-info-beta.de): Beta für eine überarbeitete Version von strecken.info
