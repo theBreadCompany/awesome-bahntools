@@ -1,4 +1,4 @@
-# awesome-zugzeug
+# awesome-bahntools
 Sammlung an hilfreichen Tools der DB und Externen
 
 # Disclaimer 
