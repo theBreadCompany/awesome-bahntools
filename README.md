@@ -18,6 +18,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 - [DB Kursbuch](https://kursbuch.bahn.de/hafas/kbview.exe): Das Kursbuch der DB AG für die Strecke- und Fahrplannsuche
 - [db.geopp.de](http://db.geopp.de/gnrailnav_servlet/GNOpenLayersV3): Webtool zur Ortung von Streckenabschnitten/-kilometern anhand von VZG-Nummern (nicht Kursbuch/Liniennummern!)
+- [OpenRailwayMap](https://openrailwaymap.org/): Interaktive Karte verschiedener Bahnrelevanter Elemente gespeißt aus den Daten von OpenStreetMap
 
 ## RIS (Reisendeninformationssystem)
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
