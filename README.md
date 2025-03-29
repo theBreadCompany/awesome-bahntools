@@ -13,10 +13,11 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [DB InfraGO Betriebsstellen](https://www.dbinfrago.com/web/schienennetz/betrieb/allgemeine-betriebsinformationen/betriebsstellen-12592996): Offizielle Liste über die Betriebsstellen der DB InfraGO
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
 - [DB Livemaps (strecken.info)](https://strecken-info.de/): Karte über die aktuellen Baustellen und Störungen im Netz der DB
-- [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
+- [DB Infrastrukturregister](https://geoviewer.deutschebahn.com/maps/#/context/ISR/275618): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 - [DB Kursbuch](https://kursbuch.bahn.de/hafas/kbview.exe): Das Kursbuch der DB AG für die Strecke- und Fahrplannsuche
 - [db.geopp.de](http://db.geopp.de/gnrailnav_servlet/GNOpenLayersV3): Webtool zur Ortung von Streckenabschnitten/-kilometern anhand von VZG-Nummern (nicht Kursbuch/Liniennummern!)
+- [OpenRailwayMap](https://openrailwaymap.org/): Interaktive Karte verschiedener Bahnrelevanter Elemente gespeißt aus den Daten von OpenStreetMap
 
 ## RIS (Reisendeninformationssystem)
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
