@@ -14,7 +14,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
 - [DB Livemaps (strecken.info)](https://db-livemaps.hafas.de/bin/query.exe/dn?L=vs_baustellen): Karte über die aktuellen Baustellen und Störungen im Netz der DB
 - [DB InfraGO Livemaps (strecken-info-beta.de](https://strecken-info-beta.de): Beta für eine überarbeitete Version von strecken.info
-- [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
+- [DB Infrastrukturregister](https://geoviewer.deutschebahn.com/maps/#/context/ISR/275618): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 - [DB Kursbuch](https://kursbuch.bahn.de/hafas/kbview.exe): Das Kursbuch der DB AG für die Strecke- und Fahrplannsuche
 - [db.geopp.de](http://db.geopp.de/gnrailnav_servlet/GNOpenLayersV3): Webtool zur Ortung von Streckenabschnitten/-kilometern anhand von VZG-Nummern (nicht Kursbuch/Liniennummern!)
