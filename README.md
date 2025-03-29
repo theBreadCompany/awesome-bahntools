@@ -12,7 +12,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 ## Netz
 - [DB InfraGO Betriebsstellen](https://www.dbinfrago.com/web/schienennetz/betrieb/allgemeine-betriebsinformationen/betriebsstellen-12592996): Offizielle Liste über die Betriebsstellen der DB InfraGO
 - [Bahnseite.de](https://www.bahnseite.de/DS100/DS100_main.html) und [michaeldittrich.de](https://www.michaeldittrich.de/abkuerzungen/index.php): Übersicht der DS100 Betriebsstellenbezeichnungen
-- [DB Livemaps (strecken-info.de)](https://strecken-info.de/): Karte über die aktuellen Baustellen und Störungen im Netz der DB
+- [DB Livemaps (strecken.info)](https://strecken-info.de/): Karte über die aktuellen Baustellen und Störungen im Netz der DB
 - [DB Fahrweg](https://fahrweg.dbnetze.com/fahrweg-de/kunden/Netzzugang-und-Regulierung/infrastrukturregister/interaktive_karte-9740938#): Karte des Infrastrukturregisters mit Informationen zu Fahrwegen, Betriebsstellen, Bauwerken etc.
 - [DB Trassenfinder](https://trassenfinder.de/#/2/sgv?tab_id=1): Webtool zur Ermittlung von Routen zwischen den Betriebsstellen der DB.
 - [DB Kursbuch](https://kursbuch.bahn.de/hafas/kbview.exe): Das Kursbuch der DB AG für die Strecke- und Fahrplannsuche
