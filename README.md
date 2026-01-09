@@ -35,3 +35,4 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [direkt.bahn.guru](https://direkt.bahn.guru): Karte mit den per Fernbahn erreichbaren Städten Europas
 - [bahnhofskatzen](https://bahnhofskatzen.de.cool): Karte für Bahnhofskatzen :)
 - [Bahn-Vorhersage](https://bahnvorhersage.de): Prognostiziert, ob ein Anschluss erreicht werden kann
+- [Transitous](https://transitous.org): offener Routingdienst für öffentliche Verkehrsmittel
