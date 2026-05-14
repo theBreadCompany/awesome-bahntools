@@ -22,6 +22,7 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 
 ## RIS (Reisendeninformationssystem)
 - [IRIS](https://iris.noncd.db.de/wbt/js/index.html?typ=ab&bhf=HH&bhfname=&zugtyp=ICE&platform=&zeilen=20&paging=&pagingdauer=&via=1&impressum=1&style=&lang=&SecLang=): Bahnhofstafelbilder der DB Station&Service, wie sie in etwas weiter aufbereitet an den Fahrgastinformationstafeln an den Bahnhöfen zu finden sind. Siehe DS100 Betriebsstellenbezeichnungen zur Auswahl des Bahnhofs.
+- [RIS-Abfahrtstafel](https://ris-abfahrtstafel.noncd.db.de/?evaNumbers=8000105&filterTransports=HIGH_SPEED_TRAIN,INTERCITY_TRAIN,INTER_REGIONAL_TRAIN,REGIONAL_TRAIN&includeStationGroup=false&timeSpan=180&pages=3)
 - [bahnhof.de](https://www.bahnhof.de/hannover-hbf/abfahrt): die etwas nutzer:innenfreundlichere Variante der IRIS-Tafeln, erreichbar über die Bahnhofsinformationen auf [bahnhof.de](https://bahnhof.de)
 - [mobile.bahn.de](https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?ld=43177&protocol=https:&rt=1&use_realtime_filter=1): eine weitere Bahnhofstafelanwendung, über die mir bisher jegliche Informationen fehlen
 - [reiseauskunft.bahn.de](https://reiseauskunft.bahn.de/bin/bhftafel.exe): eine Bahnhofstafelanwendung mit dem alten Design des Kundenportals, ursprünglich über ebenjenes zu erreichen
@@ -33,6 +34,11 @@ einen Überblick verschaffen, sondern auch Störungen und Situationen erklären 
 - [fernbahn.de](https://fernbahn.de/datenbank): aktuelle (Soll-)Datenbank zum Fernverkehr der Deutschen Bahn mit Fahrplänen, Wagenreihungen, Ausstattungen etc. 
 - [bahn.guru](https://bahn.guru): Sparpreissuche für die "(Super-)Sparpreise" der DB
 - [direkt.bahn.guru](https://direkt.bahn.guru): Karte mit den per Fernbahn erreichbaren Städten Europas
-- [bahnhofskatzen](https://bahnhofskatzen.de.cool): Karte für Bahnhofskatzen :)
+- [bahnhofskatzen](https://bahnhofskatzen.de.cool): Karte für Bahnhofskatzen :3
 - [Bahn-Vorhersage](https://bahnvorhersage.de): Prognostiziert, ob ein Anschluss erreicht werden kann
+  - stellt auch eine [JSON](https://bahnvorhersage.de/api/stations.json) über alle Stationen mit mit DS100 und EVA-Nummern weiteren Metadaten wie zugehörigen EVA-Nummern und Geo-Koordinaten zur Verfügung
 - [Transitous](https://transitous.org): offener Routingdienst für öffentliche Verkehrsmittel
+- [anrufschranke.de](https://anrufschranke.de/): allgemeine Datensammlung zu BÜs und Zugzielanzeigern, darunter insbesondere
+  - [Eingabetool für die RIS-Bahnhofstafel](https://anrufschranke.de/rishelper/), siehe Eintrag in der RIS-Sektion
+- [bahnhofstafeln.de](http://bahnhofstafeln.de/): Eingabetool für die IRIS-Bahnhofstafeln
+- [chuuchuu](https://chuuchuu.com/): Routingdienst mit Verspätungs- und Ausfallprognosen 
